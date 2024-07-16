@@ -101,14 +101,3 @@
 <!-- <img src="https://raw.githubusercontent.com/WhiteCloak24/WhiteCloak24/output/snake.svg" alt="Snake animation" /> -->
 
 ###
-
-<style>
-  img {
-    color: black;
-  }
-  @media (prefers-color-scheme: dark) {
-    img {
-      color: white;
-    }
-  }
-</style>
