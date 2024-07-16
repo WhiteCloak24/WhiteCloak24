@@ -46,7 +46,7 @@
 
 <h4>Frameworks/Libraries:</h4>  
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo"  />
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
@@ -101,3 +101,14 @@
 <!-- <img src="https://raw.githubusercontent.com/WhiteCloak24/WhiteCloak24/output/snake.svg" alt="Snake animation" /> -->
 
 ###
+
+<style>
+  img {
+    color: black;
+  }
+  @media (prefers-color-scheme: dark) {
+    img {
+      color: white;
+    }
+  }
+</style>
